@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Farzadkhd
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on blockchain project
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Data-Sciences
+- 💞️ I’m looking to collaborate on Blockchain Project
 - 📫 How to reach me https://t.me/farzadxd
 
 <!---
