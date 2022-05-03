@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Farzadkhd
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Data-Sciences
+- 👀 I’m interested in Golang
+- 🌱 I’m currently a Junior Developer in Golang
 - 💞️ I’m looking to collaborate on Blockchain Project
 - 📫 How to reach me https://t.me/farzadxd
 
